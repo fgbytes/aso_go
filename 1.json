@@ -1,0 +1,234 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "im:name": {
+                    "label": "Call of Duty®: Mobile"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/05/f8/2d/05f82dd4-7200-46fa-7e0a-058f961e14c3/AppIcon-0-1x_U007emarketing-0-85-220-0-9.png/53x53bb.png",
+                        "attributes": {
+                            "height": "53"
+                        }
+                    },
+                    {
+                        "label": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/05/f8/2d/05f82dd4-7200-46fa-7e0a-058f961e14c3/AppIcon-0-1x_U007emarketing-0-85-220-0-9.png/75x75bb.png",
+                        "attributes": {
+                            "height": "75"
+                        }
+                    },
+                    {
+                        "label": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/05/f8/2d/05f82dd4-7200-46fa-7e0a-058f961e14c3/AppIcon-0-1x_U007emarketing-0-85-220-0-9.png/100x100bb.png",
+                        "attributes": {
+                            "height": "100"
+                        }
+                    }
+                ],
+                "summary": {
+                    "label": "Official CALL OF DUTY® designed exclusively for mobile phones. Play iconic multiplayer maps and modes anytime, anywhere. 100 player Battle Royale battleground? Fast 5v5 team deathmatch? Scary Zombies action? Sniper vs sniper battle? Activision’s free-to-play CALL OF DUTY®: MOBILE has it all.\n\nFREE TO PLAY ON MOBILE\n\nConsole quality HD gaming on your phone with customizable controls, voice and text chat, and thrilling 3D graphics and sound. Experience the thrill of the world’s most beloved shooter game, now on your phone for easy on-the-go fun.\n\nBELOVED GAME MODES AND MAPS\n\nPlay iconic multiplayer maps from Call of Duty®: Black Ops and Call of Duty®: Modern Warfare®, available for the first time for free. Or squad up with friends in a brand new 100-person battle royale survival map. Join the fun with millions of players from all around world!\n\nCUSTOMIZE YOUR UNIQUE LOADOUT\n\nAs you play CALL OF DUTY®: MOBILE you will unlock and earn dozens of famous characters, weapons, outfits, scorestreaks and pieces of gear that can be used to customize your loadouts. Bring these loadouts into battle in thrilling PvP multiplayers modes like 5v5 team deathmatch, frontline, free for all, search and destroy, sniper battle, and battle royale.\n\nCOMPETITIVE AND SOCIAL PLAY\n\nUse skill and strategy to battle to the top in competitive Ranked Mode or to win the most Clan prizes as you play with friends. Compete and fight against millions of friends and foes in this thrilling free to play multipler shooter.\n\nCHOICE AND COMPLEXITY\n\nWhether in gameplay, events, controls, or loadouts, CALL OF DUTY®: MOBILE offers complexity and depth in an ever-changing experience.\n\nHave what it takes to compete with the best? Download CALL OF DUTY®: MOBILE now!\n_________________________________________________________\nNOTE: We welcome any feedback during your experience to improve the game. To give feedback, in-game go to > Settings > Feedback > Contact Us.\nSubscribe for Updates! ---> profile.callofduty.com/cod/registerMobileGame\t\n_________________________________________________________\nNote: An internet connection is required to play this game.\n\nPlease note this app contains social features that allow you to connect and play with friends and push notifications to inform you when exciting events or new content are taking place in the game. You can choose whether or not to utilize these features.\n\n© 2019 Activision Publishing, Inc. ACTIVISION and CALL OF DUTY are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their respective owners. By downloading, installing or using this App, you agree to Activision's privacy policy and terms of us, as may be updated by Activision from time to time. Please visit http://www.activision.com/privacy/en/privacy.html to view Activision's privacy policy and https://www.activision.com/legal/terms-of-use to view Activision's terms of use."
+                },
+                "im:price": {
+                    "label": "Get",
+                    "attributes": {
+                        "amount": "0.00000",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "rights": {
+                    "label": "© 2019 Activision Publishing, Inc."
+                },
+                "title": {
+                    "label": "Call of Duty®: Mobile - Activision Publishing, Inc."
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214?uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "0"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "image/jpeg",
+                            "href": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/8f/68/ef/8f68eff9-56a5-faa3-31bc-1cf67feea837/pr_source.png/1024x1024bb.png",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214?uo=2",
+                    "attributes": {
+                        "im:id": "1287282214",
+                        "im:bundleId": "com.activision.callofduty.shooter"
+                    }
+                },
+                "im:artist": {
+                    "label": "Activision Publishing, Inc.",
+                    "attributes": {
+                        "href": "https://apps.apple.com/us/developer/activision-publishing-inc/id285005466?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "6014",
+                        "term": "Games",
+                        "scheme": "https://apps.apple.com/us/genre/ios-games/id6014?uo=2",
+                        "label": "Games"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2019-09-30T13:32:41-07:00",
+                    "attributes": {
+                        "label": "September 30, 2019"
+                    }
+                }
+            },
+            {
+                "im:name": {
+                    "label": "Mario Kart Tour"
+                },
+                "im:image": [
+                    {
+                        "label": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/6f/51/a3/6f51a347-5233-24eb-86fe-c93105b44db5/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/53x53bb.png",
+                        "attributes": {
+                            "height": "53"
+                        }
+                    },
+                    {
+                        "label": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/6f/51/a3/6f51a347-5233-24eb-86fe-c93105b44db5/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/75x75bb.png",
+                        "attributes": {
+                            "height": "75"
+                        }
+                    },
+                    {
+                        "label": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/6f/51/a3/6f51a347-5233-24eb-86fe-c93105b44db5/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/100x100bb.png",
+                        "attributes": {
+                            "height": "100"
+                        }
+                    }
+                ],
+                "summary": {
+                    "label": "■ Mario Kart takes a world tour!\nMario and friends go global in this new Mario Kart as they race around courses inspired by real-world cities in addition to classic Mario Kart courses! These destinations will be featured in tours that rotate every two weeks! In addition to courses based on iconic locales, some of your favorite Mario Kart characters will get variations that incorporate the local flavor of cities featured in the game!\n\n■ Endless Mario Kart fun at your fingertips!\nThe Mario Kart series known and loved by many is ready to take the world by storm – one smart device at a time! With just one finger, you can steer and drift with ease and sling devastating items as you go for the gold in cups filled with new and classic Mario Kart courses.\n\n■ Nab 1st place with items and Frenzy mode!\nIn Mario Kart Tour you have access to an arsenal of powerful items that can mix things up on the racetrack! Turn up the heat by activating the new Frenzy mode, which gives an unlimited supply of a certain item and makes you invincible! Make the most of the ensuing chaos, as Frenzy mode only lasts a short time!\n\n■ Collect drivers, karts, badges, and more!\nEarn Grand Stars by racing or fire off the featured pipe to receive more drivers, karts, and gliders! You can also proudly display badges, earned by completing certain challenges, next to your in-game name!\n\n■ Bonus challenge courses put a twist on traditional races!\nIn certain races, 1st place isn't always the goal. With names like \"Vs. Mega Bowser\" and \"Goomba Takedown,\" these bonus challenge courses demand a different approach to gameplay and strategy!\n\n■ Race to increase your online rank!\nBoost with the best of 'em! Your high scores will determine how you compare to other players all over the world. Keep practicing and trying out different combinations of drivers, karts, and gliders to increase your score and rise to the top!\n\nNote: A Nintendo Account is required to play Mario Kart Tour.\n\n* Free-to-start; optional in-game purchases available. Persistent Internet, compatible smartphone, and Nintendo Account required. Data charges may apply.\n* For information about our ads, please see the “How we use your information” section of the Nintendo Privacy Policy.\n* May include advertising.\n\n© 2019 Nintendo\nMario Kart is a trademark of Nintendo."
+                },
+                "im:price": {
+                    "label": "Get",
+                    "attributes": {
+                        "amount": "0.00000",
+                        "currency": "USD"
+                    }
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "rights": {
+                    "label": "© 2019 Nintendo"
+                },
+                "title": {
+                    "label": "Mario Kart Tour - Nintendo Co., Ltd."
+                },
+                "link": [
+                    {
+                        "attributes": {
+                            "rel": "alternate",
+                            "type": "text/html",
+                            "href": "https://apps.apple.com/us/app/mario-kart-tour/id1293634699?uo=2"
+                        }
+                    },
+                    {
+                        "im:duration": {
+                            "label": "0"
+                        },
+                        "attributes": {
+                            "title": "Preview",
+                            "rel": "enclosure",
+                            "type": "image/jpeg",
+                            "href": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/33/77/c4/3377c483-ac78-a857-3bbc-7ede669308bb/pr_source.png/1024x1024bb.png",
+                            "im:assetType": "preview"
+                        }
+                    }
+                ],
+                "id": {
+                    "label": "https://apps.apple.com/us/app/mario-kart-tour/id1293634699?uo=2",
+                    "attributes": {
+                        "im:id": "1293634699",
+                        "im:bundleId": "com.nintendo.zaka"
+                    }
+                },
+                "im:artist": {
+                    "label": "Nintendo Co., Ltd.",
+                    "attributes": {
+                        "href": "https://apps.apple.com/us/developer/nintendo-co-ltd/id1062496488?uo=2"
+                    }
+                },
+                "category": {
+                    "attributes": {
+                        "im:id": "6014",
+                        "term": "Games",
+                        "scheme": "https://apps.apple.com/us/genre/ios-games/id6014?uo=2",
+                        "label": "Games"
+                    }
+                },
+                "im:releaseDate": {
+                    "label": "2019-09-25T00:00:00-07:00",
+                    "attributes": {
+                        "label": "September 25, 2019"
+                    }
+                }
+            }
+        ],
+        "updated": {
+            "label": "2019-10-14T07:24:20-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: MZRssChannel.topfreeipadapplications.channelTitle.withGenre"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://apps.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&id=26341&popId=44"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topfreeipadapplications/genre=7001/limit=2/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topfreeipadapplications/genre=7001/limit=2/json"
+        }
+    }
+}

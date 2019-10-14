@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestLookUp(t *testing.T) {
+func TestAppLookUp(t *testing.T) {
 	type args struct {
 		id      int
 		country string
@@ -26,8 +26,8 @@ func TestLookUp(t *testing.T) {
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := LookUp(tt.args.id, tt.args.country); got.SellerURL != tt.want {
-				t.Errorf("LookUp() = %v, want %v", got, tt.want)
+			if got := AppLookup(tt.args.id, tt.args.country); got.DeveloperWebsite != tt.want {
+				t.Errorf("LookUp() = %v,\n\n want %v", got.DeveloperWebsite, tt.want)
 			}
 
 		})
