@@ -7,6 +7,6 @@ WIP
 currently only app/developer and category profiling done.
 
 TODO:
-localyzation checker
-screenshot analyzer
-text extraction
+- localyzation checker
+- screenshot analyzer
+- text extraction
